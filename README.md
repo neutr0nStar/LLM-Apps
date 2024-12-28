@@ -17,6 +17,11 @@ This repository contains all the apps powered by Large Language Models (the tech
 - Folder: `./llama-vision`
 - Blog: [Medium link](https://medium.com/@snehbelsare/building-an-ai-vision-app-using-llama-vision-and-together-ai-for-free-vision-inference-dc47cfcb1e73)
 
+4. AI image generation app powered by FLUX.1 [schnell] and together ai.
+
+- Folder: `./flux-schnell`
+- Blog: [Medium link](https://medium.com/@snehbelsare/building-an-ai-image-generator-with-flux-1-schnell-and-together-api-09da78e101ad)
+
 ---
 
 If you want to request a specific app, feel free to open a GitHub Issue.
