@@ -22,6 +22,11 @@ This repository contains all the apps powered by Large Language Models (the tech
 - Folder: `./flux-schnell`
 - Blog: [Medium link](https://medium.com/@snehbelsare/building-an-ai-image-generator-with-flux-1-schnell-and-together-api-09da78e101ad)
 
+5. LLM function (tool) calling using LangChain, Ollama and Streamlit.
+
+- Folder: `./function-calling`
+- Blog: [Medium link](https://medium.com/@snehbelsare/function-calling-with-langchain-ollama-and-streamlit-a-game-changer-in-ai-powered-apps-b3c571ba65ca)
+
 ---
 
 If you want to request a specific app, feel free to open a GitHub Issue.
