@@ -27,6 +27,11 @@ This repository contains all the apps powered by Large Language Models (the tech
 - Folder: `./function-calling`
 - Blog: [Medium link](https://medium.com/@snehbelsare/function-calling-with-langchain-ollama-and-streamlit-a-game-changer-in-ai-powered-apps-b3c571ba65ca)
 
+6. Chat with your DataFrame.
+
+- Folder: `./chat-dataframe`
+- Blog: [Medium link](https://medium.com/@snehbelsare/chat-with-your-dataframe-a-conversational-ai-for-pandas-dataframes-f9233cffaf74)
+
 ---
 
 If you want to request a specific app, feel free to open a GitHub Issue.
