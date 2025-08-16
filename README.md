@@ -32,6 +32,11 @@ This repository contains all the apps powered by Large Language Models (the tech
 - Folder: `./chat-dataframe`
 - Blog: [Medium link](https://medium.com/@snehbelsare/chat-with-your-dataframe-a-conversational-ai-for-pandas-dataframes-f9233cffaf74)
 
+7. LLM Powered Smart Customer Support Agent using RAG and ReAct, Streamlit demo.
+
+- Folder: `./customer-support`
+- Blog: [Medium link](https://medium.com/@sneharshbelsare/llm-powered-smart-customer-support-agent-rag-react-in-a-streamlit-demo-42faf2d18b27)
+
 ---
 
 If you want to request a specific app, feel free to open a GitHub Issue.
