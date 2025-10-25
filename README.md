@@ -37,6 +37,12 @@ This repository contains all the apps powered by Large Language Models (the tech
 - Folder: `./customer-support`
 - Blog: [Medium link](https://medium.com/@sneharshbelsare/llm-powered-smart-customer-support-agent-rag-react-in-a-streamlit-demo-42faf2d18b27)
 
+8. AI Research assistant (Perplexity clone)
+
+- Folder: `./perplexity-clone`
+- Blog: [Medium link](https://medium.com/@sneharshbelsare/building-ai-research-assistant-perplexity-clone-662ba87bf78a)
+
+
 ---
 
 If you want to request a specific app, feel free to open a GitHub Issue.
